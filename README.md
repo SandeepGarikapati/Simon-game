@@ -4,3 +4,9 @@ Simon is a game that tests your memory and concentration skills. The game consis
 
 ## Preview
 ![Preview](screenshot.png)
+
+# Link to the website
+
+```
+https://sandeepgarikapati.github.io/Simon-game/
+```
